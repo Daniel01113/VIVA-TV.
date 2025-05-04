@@ -512,7 +512,7 @@
             </div>
             
             <!-- Plano Trimestral -->
-            <div class="card rounded-2xl p-12 border-2 border-primary transform transition-all hover:scale-105">
+            <div class="card rounded-2x5 p-12 border-2 border-primary transform transition-all hover:scale-105">
                 <div class="absolute -top-5 left-1/2 transform -translate-x-1/2 bg-primary text-white px-6 py-2 rounded-full font-bold text-lg">
                     Melhor Custo-Benefício
                 </div>
