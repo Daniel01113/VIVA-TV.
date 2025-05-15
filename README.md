@@ -443,7 +443,7 @@
         </div>
         
         <div class="text-center">
-            <a href="https://wa.me/5511911379757" target="_blank" class="inline-block bg-gray-800 hover:bg-gray-700 text-white font-bold py-3 px-6 rounded-lg transition-all">
+            <a href="https://wa.me/5582981732663" target="_blank" class="inline-block bg-gray-800 hover:bg-gray-700 text-white font-bold py-3 px-6 rounded-lg transition-all">
                 Verificar Compatibilidade <i class="fas fa-chevron-right ml-2"></i>
             </a>
         </div>
@@ -506,7 +506,7 @@
                     <i class="fas fa-exclamation-circle mr-1"></i>Não oferecemos teste grátis!
                 </div>
                 
-                <a href="https://wa.me/5511911379757" target="_blank" class="btn-pulse block w-full bg-secondary text-white text-center py-3 rounded-lg font-bold text-lg">
+                <a href="https://wa.me/55982981732663" target="_blank" class="btn-pulse block w-full bg-secondary text-white text-center py-3 rounded-lg font-bold text-lg">
                     Assinar Agora <i class="fas fa-arrow-right ml-2"></i>
                 </a>
             </div>
@@ -556,7 +556,7 @@
                     </li>
                 </ul>
                 
-                <a href="https://wa.me/5511911379757" target="_blank" class="btn-pulse block w-full bg-primary text-white text-center py-3 rounded-lg font-bold text-lg">
+                <a href="https://wa.me/5582981732663" target="_blank" class="btn-pulse block w-full bg-primary text-white text-center py-3 rounded-lg font-bold text-lg">
                     Economizar Agora <i class="fas fa-arrow-right ml-2"></i>
                 </a>
             </div>
@@ -596,7 +596,7 @@
                         Enviar Mensagem
                     </button>
                     
-                    <a href="https://wa.me/5511911379757" target="_blank" class="flex items-center text-white hover:text-secondary transition-colors">
+                    <a href="https://wa.me/5582981732663" target="_blank" class="flex items-center text-white hover:text-secondary transition-colors">
                         <i class="fab fa-whatsapp text-2xl mr-2"></i> WhatsApp
                     </a>
                 </div>
