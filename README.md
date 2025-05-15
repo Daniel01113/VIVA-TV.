@@ -238,7 +238,7 @@
             <a href="#pricing" class="text-white hover:text-secondary transition-colors">Preços</a>
             <a href="#contact" class="text-white hover:text-secondary transition-colors">Contato</a>
         </div>
-        <a href="https://wa.me/5511911379757" target="_blank" class="bg-secondary hover:bg-opacity-90 text-white px-4 py-2 rounded-full font-medium text-sm">
+        <a href="https://wa.me/5582981732663" target="_blank" class="bg-secondary hover:bg-opacity-90 text-white px-4 py-2 rounded-full font-medium text-sm">
             <i class="fab fa-whatsapp mr-1"></i> WhatsApp
         </a>
     </div>
@@ -255,7 +255,7 @@
         <div class="warning-badge mb-8">
             <i class="fas fa-exclamation-circle mr-2"></i>Não oferecemos teste grátis!
         </div>
-        <a href="https://wa.me/5511911379757" target="_blank" class="btn-pulse bg-secondary text-white text-xl px-8 py-4 rounded-full font-bold mb-8 inline-block">
+        <a href="https://wa.me/5582981732663" target="_blank" class="btn-pulse bg-secondary text-white text-xl px-8 py-4 rounded-full font-bold mb-8 inline-block">
             Assine Agora <i class="fas fa-arrow-right ml-2"></i>
         </a>
         <p class="text-xl opacity-80">+ de 100.000 conteúdos liberados!</p>
@@ -365,7 +365,7 @@
         </div>
         
         <div class="text-center mt-16">
-            <a href="https://wa.me/5511911379757" target="_blank" class="btn-pulse bg-secondary text-white text-xl px-8 py-4 rounded-full font-bold inline-block">
+            <a href="https://wa.me/5582981732663" target="_blank" class="btn-pulse bg-secondary text-white text-xl px-8 py-4 rounded-full font-bold inline-block">
                 Quero Assinar Agora <i class="fas fa-arrow-right ml-2"></i>
             </a>
         </div>
@@ -636,7 +636,7 @@
 </footer>
 
 <!-- FloatingWhatsApp Button -->
-<a href="https://wa.me/5511911379757" target="_blank" class="floating-whatsapp bg-green-500 text-white p-4 rounded-full shadow-lg">
+<a href="https://wa.me/5582981732663" target="_blank" class="floating-whatsapp bg-green-500 text-white p-4 rounded-full shadow-lg">
     <i class="fab fa-whatsapp text-2xl"></i>
 </a>
 <script>
